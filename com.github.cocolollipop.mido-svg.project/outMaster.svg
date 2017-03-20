@@ -60,78 +60,69 @@
     ></defs
     ><g
     >
-    <a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/les-formations-mido.html" target="_blank">
- <text style="stroke:none;" x="300" xml:space="preserve" y="20"
-      >MIDO</text>
-       </a>
+<a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/les-formations-mido.html" target="_blank">
+  <text style="stroke:none;" x="300" xml:space="preserve" y="20">MIDO</text>
+</a>
 
 <a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-1.html" target="_blank">
-  <text style="stroke:none;" x="300" xml:space="preserve" y="50"
-      >Masters</text> </a>
-      <text style="stroke:none;" x="100" xml:space="preserve" y="75">INFO-ORG</text>
-      <a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-1.html" target="_blank">
-<text style="stroke:none;" x="30" xml:space="preserve" y="180"
-      >M1</text>
-  </a>
-  <a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-1.html" target="_blank">
-<text style="stroke:none;" x="30" xml:space="preserve" y="480"
-      >M2</text>
-  </a>
-  <text style="stroke:none;" x="60" xml:space="preserve" y="150"
-      >MIAGE classique</text
-      ><line style="fill:none;" x1="50" x2="60" y1="180" y2="150"
-      /><text style="stroke:none;" x="60" xml:space="preserve" y="180"
-      >MIAGE apprentissage</text
-      ><line style="fill:none;" x1="50" x2="60" y1="180" y2="180"
-      /><text style="stroke:none;" x="60" xml:space="preserve" y="210"
-      >Informatique de décision</text
-      ><line style="fill:none;" x1="50" x2="60" y1="180" y2="210"
-      /><text style="stroke:none;" x="60" xml:space="preserve" y="450"
-      >MODO</text
-      ><line style="fill:none;" x1="50" x2="60" y1="480" y2="450"
-      /><text style="stroke:none;" x="60" xml:space="preserve" y="510"
-      >ISI</text
-      ><line style="fill:none;" x1="50" x2="60" y1="480" y2="510"
-      /><text style="stroke:none;" x="175" xml:space="preserve" y="485"
-      >MIAGE-IF</text
-      ><text style="stroke:none;" x="300" xml:space="preserve" y="485"
-      >Apprentissage</text
-      ><line style="fill:none;" x1="185" x2="310" y1="485" y2="485"
-      /><line style="fill:none;" x1="80" x2="175" y1="510" y2="485"
-      /><text style="stroke:none;" x="175" xml:space="preserve" y="515"
-      >MIAGE-STIN</text
-      ><text style="stroke:none;" x="300" xml:space="preserve" y="515"
-      >Apprentissage</text
-      ><line style="fill:none;" x1="185" x2="310" y1="515" y2="515"
-      /><line style="fill:none;" x1="80" x2="175" y1="510" y2="515"
-      /><text style="stroke:none;" x="175" xml:space="preserve" y="545"
-      >MIAGE-ID</text
-      ><text style="stroke:none;" x="300" xml:space="preserve" y="545"
-      >Apprentissage</text
-      ><line style="fill:none;" x1="185" x2="310" y1="545" y2="545"
-      /><line style="fill:none;" x1="80" x2="175" y1="510" y2="545"
-      /><text style="stroke:none;" x="500" xml:space="preserve" y="75"
-      >MATHS-APP</text
-      ><text style="stroke:none;" x="500" xml:space="preserve" y="180"
-      >M1</text
-      ><text style="stroke:none;" x="500" xml:space="preserve" y="480"
-      >M2</text
-      ><text style="stroke:none;" x="600" xml:space="preserve" y="150"
-      >Actuariat</text
-      ><line style="fill:none;" x1="510" x2="600" y1="180" y2="150"
-      /><text style="stroke:none;" x="600" xml:space="preserve" y="180"
-      >Maths approfondies</text
-      ><line style="fill:none;" x1="510" x2="600" y1="180" y2="180"
-      /><text style="stroke:none;" x="600" xml:space="preserve" y="210"
-      >Méth maths en éco</text
-      ><line style="fill:none;" x1="510" x2="600" y1="180" y2="210"
-      /><text style="stroke:none;" x="600" xml:space="preserve" y="450"
-      >Actuariat</text
-      ><line style="fill:none;" x1="510" x2="600" y1="480" y2="450"
-      /><text style="stroke:none;" x="600" xml:space="preserve" y="510"
-      >etc</text
-      ><line style="fill:none;" x1="510" x2="600" y1="480" y2="510"
-    /></g
-  ></g
-></svg
->
+  <text style="stroke:none;" x="300" xml:space="preserve" y="50">Masters</text> 
+</a>
+<text style="stroke:none;" x="100" xml:space="preserve" y="75">INFO-ORG</text>
+
+<a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-1.html" target="_blank">
+  <text style="stroke:none;" x="30" xml:space="preserve" y="180">M1</text>
+</a>
+<a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-2.html" target="_blank">
+  <text style="stroke:none;" x="30" xml:space="preserve" y="480">M2</text>
+</a>
+
+<a xlink:href="http://mido.dauphine.fr/fr/miage.html" target="_blank">
+< text style="stroke:none;" x="60" xml:space="preserve" y="150">MIAGE classique</text>
+</a>
+<line style="fill:none;" x1="50" x2="60" y1="180" y2="150"/>
+<text style="stroke:none;" x="60" xml:space="preserve" y="180">MIAGE apprentissage</text>
+<line style="fill:none;" x1="50" x2="60" y1="180" y2="180"/>
+<text style="stroke:none;" x="60" xml:space="preserve" y="210">Informatique de décision</text>
+<line style="fill:none;" x1="50" x2="60" y1="180" y2="210"/>
+<text style="stroke:none;" x="60" xml:space="preserve" y="450">MODO</text>
+<line style="fill:none;" x1="50" x2="60" y1="480" y2="450"/>
+<text style="stroke:none;" x="60" xml:space="preserve" y="510">ISI</text>
+<line style="fill:none;" x1="50" x2="60" y1="480" y2="510"/>
+
+<a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-2/master-2-informatique-des-organisations/parcours-miage-if/presentation.html" target="_blank">
+  <text style="stroke:none;" x="175" xml:space="preserve" y="485">MIAGE-IF</text>
+</a>
+  <text style="stroke:none;" x="300" xml:space="preserve" y="485">Apprentissage</text>
+
+<line style="fill:none;" x1="185" x2="310" y1="485" y2="485"/>
+<line style="fill:none;" x1="80" x2="175" y1="510" y2="485"/>
+
+<a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-2/master-2-informatique-des-organisations/parcours-miage-sitn/presentation.html" target="_blank">
+      <text style="stroke:none;" x="175" xml:space="preserve" y="515">MIAGE-STIN</text>
+</a>
+
+  <text style="stroke:none;" x="300" xml:space="preserve" y="515">Apprentissage</text>
+      <line style="fill:none;" x1="185" x2="310" y1="515" y2="515"/>
+      <line style="fill:none;" x1="80" x2="175" y1="510" y2="515"/>
+<a xlink:href="http://mido.dauphine.fr/fr/formations-et-diplomes/masters-2/master-2-informatique-des-organisations/parcours-miage-id/presentation.html" target="_blank">
+  <text style="stroke:none;" x="175" xml:space="preserve" y="545">MIAGE-ID</text>
+</a>
+      <text style="stroke:none;" x="300" xml:space="preserve" y="545">Apprentissage</text>
+      <line style="fill:none;" x1="185" x2="310" y1="545" y2="545"/>
+      <line style="fill:none;" x1="80" x2="175" y1="510" y2="545"/>
+      <text style="stroke:none;" x="500" xml:space="preserve" y="75">MATHS-APP</text>
+      <text style="stroke:none;" x="500" xml:space="preserve" y="180">M1</text>
+      <text style="stroke:none;" x="500" xml:space="preserve" y="480">M2</text>
+      <text style="stroke:none;" x="600" xml:space="preserve" y="150">Actuariat</text>
+      <line style="fill:none;" x1="510" x2="600" y1="180" y2="150"/>
+      <text style="stroke:none;" x="600" xml:space="preserve" y="180">Maths approfondies</text>
+      <line style="fill:none;" x1="510" x2="600" y1="180" y2="180"/>
+      <text style="stroke:none;" x="600" xml:space="preserve" y="210">Méth maths en éco</text>
+      <line style="fill:none;" x1="510" x2="600" y1="180" y2="210"/>
+      <text style="stroke:none;" x="600" xml:space="preserve" y="450">Actuariat</text>
+      <line style="fill:none;" x1="510" x2="600" y1="480" y2="450"/>
+      <text style="stroke:none;" x="600" xml:space="preserve" y="510">etc</text>
+      <line style="fill:none;" x1="510" x2="600" y1="480" y2="510"/>
+      </g>
+      </g>
+</svg>
