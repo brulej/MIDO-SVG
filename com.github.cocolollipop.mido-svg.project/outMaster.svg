@@ -77,7 +77,7 @@
 </a>
 
 <a xlink:href="http://mido.dauphine.fr/fr/miage.html" target="_blank">
-< text style="stroke:none;" x="60" xml:space="preserve" y="150">MIAGE classique</text>
+<text style="stroke:none;" x="60" xml:space="preserve" y="150">MIAGE classique</text>
 </a>
 <line style="fill:none;" x1="50" x2="60" y1="180" y2="150"/>
 <text style="stroke:none;" x="60" xml:space="preserve" y="180">MIAGE apprentissage</text>
